@@ -34,9 +34,9 @@
 
 + [Target #16 - Eye of the Tiger](./solutions/Eye-of-the-Tiger.md)
 
-### To be uploaded:
++ [Target #17 - Fidget Spinner](./solutions/Fidget-Spinner.md)
 
-+ [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
+### To be uploaded:
 
 + [Target #18 - Matrix](./Matrix.md)
 

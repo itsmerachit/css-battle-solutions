@@ -36,9 +36,7 @@
 
 + [Target #17 - Fidget Spinner](./solutions/Fidget-Spinner.md)
 
-### To be uploaded:
-
-+ [Target #18 - Matrix](./Matrix.md)
++ [Target #18 - Matrix](./solutions/Matrix.md)
 
 + [Target #19 - Cube](./Cube.md)
 
@@ -63,6 +61,8 @@
 + [Target #29 - Suffocate](./Suffocate.md)
 
 + [Target #30 - Horizon](./Horizon.md)
+
+### To be uploaded:
 
 + [Target #31 - Equals](./Equals.md)
 
